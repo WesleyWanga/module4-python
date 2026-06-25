@@ -1,4 +1,4 @@
-#dictionary: stores datea in key-value pairs. They are ordered,changeable, uses keys to access values,keys must be unique()
+#dictionary: a data sturcture that stores data in key-value pairs. They are ordered,changeable, uses keys to access values,keys must be unique()
 book={
     "title":"Python Basics",
     "author":"M.Carter",
